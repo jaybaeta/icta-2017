@@ -4,9 +4,16 @@ This is the website for the International Conference on Tropical Agriculture 201
 
 ## Credits
 
-### Contributors
+### Main contributors
 
 + [@jaybaeta](https://github.com/jaybaeta)
++ [@w1lldone](https://github.com/w1lldone)
+
+### Supporting contributors
+
++ [@tikadyota](https://github.com/tikadyota)
++ [@akhsin](https://github.com/akhsin)
++ [@davieiycode](https://github.com/davieiycode)
 
 ### Development
 
