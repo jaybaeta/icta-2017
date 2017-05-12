@@ -2184,7 +2184,7 @@ pre code {
 .table-info,
 .table-info > th,
 .table-info > td {
-  background-color: #d9edf7;
+  background-color: #47a565;
 }
 
 .table-hover .table-info:hover {
@@ -5008,9 +5008,9 @@ a.badge:focus, a.badge:hover {
 }
 
 .alert-info {
-  background-color: #d9edf7;
-  border-color: #bcdff1;
-  color: #31708f;
+  background-color: #56b273;
+  border-color: #42a060;
+  color: #0c5924;
 }
 
 .alert-info hr {
@@ -5018,7 +5018,7 @@ a.badge:focus, a.badge:hover {
 }
 
 .alert-info .alert-link {
-  color: #245269;
+  color: #0c5924;
 }
 
 .alert-warning {
@@ -5272,7 +5272,7 @@ button.list-group-item-success.active {
 
 .list-group-item-info {
   color: #31708f;
-  background-color: #d9edf7;
+  background-color: #47a565;
 }
 
 a.list-group-item-info,
