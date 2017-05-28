@@ -9413,6 +9413,12 @@ a.text-gray-dark:focus, a.text-gray-dark:hover {
     position: absolute;
     right: 5.5rem;
     padding: 0.55rem 1rem;
+    margin-top: 0.4rem;
+    margin-bottom: 0.4rem;
+  }
+  .navbar-toggler-right{
+    margin-top: 0.4rem;
+    margin-bottom: 0.4rem;
   }
 }
 
