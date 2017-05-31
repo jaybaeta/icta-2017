@@ -3221,6 +3221,12 @@ tbody.collapse.show {
   border: 0;
 }
 
+@media (max-width: 991px) {
+  .dropdown-item {
+    white-space: normal;
+  }
+}
+
 .dropdown-item:focus, .dropdown-item:hover {
   color: rgba(0, 0, 0, 0.8);;
   text-decoration: none;
