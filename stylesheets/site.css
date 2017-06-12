@@ -9577,4 +9577,10 @@ a.text-gray-dark:focus, a.text-gray-dark:hover {
   }
 }
 
+@media (max-width: 992px){
+  img.rounded.mb-3 {
+    width: 100% !important;
+  }
+}
+
 /*# sourceMappingURL=bootstrap.css.map */
