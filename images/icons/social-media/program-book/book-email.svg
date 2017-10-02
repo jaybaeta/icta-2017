@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="198.4375mm"
+   height="198.4375mm"
+   viewBox="0 0 198.4375 198.4375"
+   version="1.1"
+   id="svg70"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
+   sodipodi:docname="book-email.svg"
+   inkscape:export-filename="/home/archaeoz/Ledger/Universitas Gadjah Mada/ICSEAS/2017/website/images/email.svg.png"
+   inkscape:export-xdpi="384"
+   inkscape:export-ydpi="384">
+  <defs
+     id="defs64" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.175"
+     inkscape:cx="-771.67392"
+     inkscape:cy="877.46896"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1366"
+     inkscape:window-height="709"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:pagecheckerboard="true" />
+  <metadata
+     id="metadata67">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-142.36313,48.565697)">
+    <g
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1"
+       id="g3669"
+       transform="matrix(3.3072917,0,0,3.3072917,142.36313,-48.565697)">
+      <path
+         style="fill:#ffffff;fill-opacity:1;stroke-width:1.66666675"
+         d="M 50,0 C 22.385761,0 0,22.385761 0,50 0,77.614239 22.385761,100 50,100 77.614239,100 100,77.614239 100,50 100,22.385761 77.614239,0 50,0 Z M 21.894531,31.085938 h 28.251953 28.253907 c 1.64024,0 2.054122,0.427733 1.669921,1.550781 -0.221654,0.635408 -1.241801,1.197496 -1.847656,1.507812 -1.625464,0.857063 -24.204589,13.166067 -25.046875,13.609375 -0.842286,0.443309 -1.699372,0.650391 -3.029297,0.650391 -1.329925,0 -2.187011,-0.207082 -3.029296,-0.650391 -0.842286,-0.443308 -23.421412,-12.752312 -25.046876,-13.609375 -0.605854,-0.310316 -1.624048,-0.857627 -1.845703,-1.507812 -0.3842,-1.108271 0.02968,-1.550781 1.669922,-1.550781 z m 58.361328,3.46875 c 0.529892,-0.03533 0.480469,0.513041 0.480469,0.978515 v 30.292969 c 0,1.359479 -1.729594,3.08789 -3.177734,3.08789 H 50.146484 22.736328 c -1.44814,0 -3.472656,-1.713634 -3.472656,-3.08789 V 35.533203 c 0,-0.605855 0.07268,-1.389572 1.373047,-0.724609 1.211709,0.620631 12.205972,8.364794 19.402343,13.019531 L 27.908203,61.496094 c -0.295539,0.295539 -0.429276,0.665578 -0.251953,0.828125 0.177323,0.177323 0.577508,0.08851 0.873047,-0.207031 L 43.097656,49.822266 c 2.201765,1.418586 3.738769,2.395199 4.019532,2.542968 1.137824,0.576301 1.935803,0.648438 3.029296,0.648438 1.093494,0 1.891473,-0.07214 3.029297,-0.648438 0.265985,-0.147769 1.817767,-1.124382 4.019531,-2.542968 l 14.570313,12.294922 c 0.310316,0.280761 0.69377,0.369577 0.871094,0.207031 0.162546,-0.177324 0.02991,-0.532586 -0.265625,-0.828125 L 60.224609,47.828125 c 7.196372,-4.654737 18.073447,-12.3989 19.285157,-13.019531 0.328787,-0.166241 0.569463,-0.242131 0.746093,-0.253906 z"
+         id="path120"
+         transform="scale(0.59999999)"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       transform="matrix(0.03909733,0,0,0.03909733,145.58321,126.63372)"
+       id="g6"
+       style="fill:#ffffff" />
+  </g>
+</svg>
