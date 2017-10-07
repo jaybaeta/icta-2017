@@ -15,7 +15,7 @@
    viewBox="0 0 181.43716 80.429352"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.1 r15371"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="logo.svg">
   <defs
      id="defs2">
@@ -1195,9 +1195,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="-87.334637"
-     inkscape:cy="130.63264"
+     inkscape:zoom="0.7"
+     inkscape:cx="283.87679"
+     inkscape:cy="10.957941"
      inkscape:document-units="mm"
      inkscape:current-layer="_765949544"
      showgrid="false"
@@ -1206,9 +1206,9 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1366"
-     inkscape:window-height="715"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-height="703"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata5">
@@ -1218,7 +1218,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1361,6 +1361,18 @@
                  style="fill:#292b2c;fill-opacity:1;fill-rule:nonzero" />
             </g>
           </g>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:140.40168762px;line-height:421.99997902%;font-family:sans-serif;letter-spacing:84.01637268px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             x="4733.5425"
+             y="3072.6326"
+             id="text4364"
+             sodipodi:linespacing="421.99998%"><tspan
+               sodipodi:role="line"
+               id="tspan4366"
+               x="4733.5425"
+               y="3072.6326"
+               style="letter-spacing:11.2321356px">EVALUATION</tspan></text>
         </g>
       </g>
     </g>
