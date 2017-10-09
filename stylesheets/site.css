@@ -9590,19 +9590,19 @@ a.text-gray-dark:focus, a.text-gray-dark:hover {
   }
 }
 
-/* LIST OF PRESENTERS */
+/* LIST OF PARTICIPANTS */
 
 /* Container to scale list on small devices and keep regular container padding on large devices */
 
 @media (min-width: 992px) {
-  .presenters-list-container {
+  .participants-list-container {
     width: 960px;
     max-width: 100%;
   }
 }
 
 @media (min-width: 1200px) {
-  .presenters-list-container {
+  .participants-list-container {
     width: 1140px;
     max-width: 100%;
   }
@@ -9610,66 +9610,66 @@ a.text-gray-dark:focus, a.text-gray-dark:hover {
 
 /* Presenters list headings */
 
-.presenters-list-heading {  
+.participants-list-heading {  
   padding: 15px 0;
   margin-left: 0px;
   margin-right: 0px; 
 }
 
-.presenters-list-heading > .col-sm-12 {
+.participants-list-heading > .col-sm-12 {
   letter-spacing: 2px; 
   text-align: center;
   color: #fff;
 }
 
-.presenters-list-heading > .col-sm-12 > h4 {
+.participants-list-heading > .col-sm-12 > h4 {
   margin-bottom: 0;
 }
 
-.presenters-list-col-title > h5 {
+.participants-list-col-title > h5 {
   margin-bottom: 0;
 }
 
 /* Presenters list items */
 
-.presenters-list-item {
+.participants-list-item {
   padding: 5px 0;
   margin-left: 0px;
   margin-right: 0px;
 }
 
-.presenters-list-item > .col-sm-2, .schedule-item > .col-sm-8  {
+.participants-list-item > .col-sm-2, .schedule-item > .col-sm-8  {
   padding: 0;
 }
 
-.presenters-list-item > .col-sm-8 > .row  {
+.participants-list-item > .col-sm-8 > .row  {
   margin-right: -20px;
 }
 
 @media (min-width: 992px) {
-  .presenters-list-item {
+  .participants-list-item {
     padding-left: 2%;
   }
 }
 
 @media (max-width: 991px) {
-  .presenters-list-item {
+  .participants-list-item {
     border-bottom: 1px solid #e3e3f3;
   }
 }
 
 @media (max-width: 767px) {
-  .presenters-list-item {
+  .participants-list-item {
     font-size: 0.95rem;
   }
 
-  .presenters-list-heading > .col-sm-12 > h4 {
+  .participants-list-heading > .col-sm-12 > h4 {
     font-size: 1.25rem;
   }
 }
 
 @media (max-width: 575px) {
-  .presenters-list-item {
+  .participants-list-item {
     font-size: 0.9rem;
   }
 }
