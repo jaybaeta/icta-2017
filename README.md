@@ -37,6 +37,16 @@ This is the website for the International Conference on Tropical Agriculture 201
 
 + Background is from [Freepik](http://www.freepik.com); modified
 
+### Symposia images
+
+Juan Carlos Huayllapuma/CIFOR , and Ricky Martin for Center for International Forestry Research.
+
++ Sustainable Tropical Forestry: [Juan Carlos Huayllapuma/CIFOR](https://www.flickr.com/photos/cifor/32778603930); [CC BY-NC-ND 2.0](https://creativecommons.org/licenses/by-nc-nd/2.0/)
++ Innovative and Emerging Agricultural Technology and Management: [James Wheeler](https://www.flickr.com/photos/james_wheeler/9909142064); [CC BY-NC-SA 2.0](https://creativecommons.org/licenses/by-nc-sa/2.0/)
++ Sustainable Tropical Agriculture: [David A. LaSpina](https://www.flickr.com/photos/dbooster/15900757710); [CC BY-NC-SA 2.0](https://creativecommons.org/licenses/by-nc-sa/2.0/)
++ Sustainable Tropical Animal Production and Health: [C. Schubert (CCAFS)](https://www.flickr.com/photos/cgiarclimate/14104673257/in/gallery-ilri-72157651071496591); [CC BY-NC-SA 2.0](https://creativecommons.org/licenses/by-nc-sa/2.0/)
++ Socio-economic Dimensions in Tropical Agriculture: [Ricky Martin for Center for International Forestry Research](https://www.flickr.com/photos/cifor/12184243296); [CC BY-NC-ND 2.0](https://creativecommons.org/licenses/by-nc-nd/2.0/)
+
 ## License
 
 © 2017 Joaquim Baeta under the MIT License.
