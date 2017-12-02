@@ -9732,7 +9732,7 @@ a.text-gray-dark:focus, a.text-gray-dark:hover {
   color: rgba(255, 255, 255, 0.9);
 }
 
-/* BREADCRUMBS IN RED AREA */
+/* BREADCRUMBS IN GREEN AREA */
 
 .green-area-breadcrumb > .breadcrumb-item + .breadcrumb-item::before {
   color: rgba(255, 255, 255, 0.4);
